@@ -10,6 +10,6 @@ O padrão Observer é um dos padrões comportamentais mais utilizados em desenvo
 
 ## Exemplo de Estudos
 
-Clique -> <a href=""> Aqui</a>
+Clique -> <a href="https://github.com/CarolinaCedro/Java-daily/tree/master/Java-daily/Design-Patterns/src/main/java/observer" target="_blank"> Aqui</a>
 
 
