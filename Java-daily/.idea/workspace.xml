@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6aee6a57-4956-4931-924a-9cfaa70aa446" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/enums/Pontuacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test01/Cap01.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test01/CaprichoV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test01/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test01/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test02/Cap02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test02/CaprichoV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test02/QuestionV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capricho-app/src/main/java/com/pratice/caprichoapp/test02/QuestionsV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/ManobixAdminServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/model/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/service/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/java/com/manobixadminserver/service/impl/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-admin-server/src/test/java/com/manobixadminserver/ManobixAdminServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/src/main/java/com/manobixgateway/ManobixGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/src/main/java/com/manobixgateway/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-gateway-server/src/test/java/com/manobixgateway/ManobixGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/src/main/java/com/manobixmodel/model/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/src/main/java/com/manobixmodel/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/manobix-model/src/test/java/com/manobixmodel/ManobixModelApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manobix-server/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2cJtlDEonHIv1mdiWRx2Tr5KUYA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/pc/Documentos/Minhas-coisas/Java-daily",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Design-Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aee6a57-4956-4931-924a-9cfaa70aa446" name="Changes" comment="" />
+      <created>1707841657357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707841657357</updated>
+      <workItem from="1707841658423" duration="466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
